@@ -179,6 +179,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jesse Chand http://jessechand.com
 - Jesse Collins http://jtcollins.me
 - Jessica Chang http://jessmchang.com
+- Jessica Ouyang http://jessicaouyang.com
 - Jevin Sidhu http://jevinsidhu.com
 - Jian Wei Chuah http://jianweichuah.com
 - Jing Xiao http://www.notajingoist.com/index.html
